@@ -13,9 +13,9 @@
 
 ## Best Evaluation
 
-<a src="WyToastmasters-Certificates-AwardBestEvaulation.pdf">
+<a src="WyToastmasters-Certificates-AwardBestEvaulation.pdf">PDF</a>
+
    <img src="WyToastmasters-Certificates-AwardBestEvaulation.jpg" width="50%" border="1"/>
-  </a>
 
 ## New Member
 
