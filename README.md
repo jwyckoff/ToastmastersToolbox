@@ -22,7 +22,7 @@ https://www.toastmasters.org/logos
  
  Here is how they compare:
 
-![](.\docs\font-heading-example.jpg)
+![](./docs/font-heading-example.jpg)
 
 
 ### Body
@@ -36,7 +36,7 @@ https://www.toastmasters.org/logos
  
  Here is how they compare:
 
-![](.\docs\font-body-example.jpg)
+![](./docs/font-body-example.jpg)
 
 ---
 
