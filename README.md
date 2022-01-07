@@ -1,13 +1,17 @@
-# ToastmastersTemplates
+# Toastmasters Toolbox
 General Toastmaters material that goes beyond the offerings from International and stays in their branding guidelines.
 
 # 
 
-For the Toastmasters branding guideslines, visit their [Visual Brand Guidelines](https://www.toastmasters.org/~/media/A107552E24D443A78451E8730B729CA6.ashx).
+For the Toastmasters branding guideslines, visit their [2022 Brand Manual](https://toastmasterscdn.azureedge.net/medias/files/brand-materials/brand-items/brand-manual_2022.pdf). For logos, visit their [logo page](https://www.toastmasters.org/logos).
 
+## Contents
 
-https://www.toastmasters.org/logos
+In the Toastmasters Toolbox, you'll find:
 
+* Fonts
+* Microsoft Office Themes
+* Microsoft Office Templates
 
 ## Fonts
 
@@ -41,4 +45,4 @@ https://www.toastmasters.org/logos
 ---
 
 ## Themes
-C:\Users\JasonWyckoff\AppData\Roaming\Microsoft\Templates\Document Themes\Theme Fonts
+
